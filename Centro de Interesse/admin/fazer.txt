@@ -1,0 +1,4 @@
+Explicar a diferenca entre o cookie e o sessão.
+
+Explicar o codigo php
+
