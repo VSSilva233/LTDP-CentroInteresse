@@ -1,0 +1,22 @@
+#container{
+	/*background-color: yellow;*/
+	width: 60%; /*largura*/
+	height: 70%; /*altura*/
+	margin: 0px auto 0px auto;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	text-align: center;
+}
+#txt_Descriçao{
+ border-width: 2px;/*largura da borda*/
+    
+}
+#txt_cabecalho{
+width: 60%; /*largura*/
+height: 110%; /*altura*/
+border-width: 30px;
+}
+#h3{
+ background-color: red;  
+}
